@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyCloneApp-idocNet/static/css/main.abd64e84.css",
-    "main.js": "/MyCloneApp-idocNet/static/js/main.e6b42482.js",
+    "main.css": "/MyCloneApp-idocNet/static/css/main.175a7d70.css",
+    "main.js": "/MyCloneApp-idocNet/static/js/main.fe965eb2.js",
     "static/js/787.d7586270.chunk.js": "/MyCloneApp-idocNet/static/js/787.d7586270.chunk.js",
     "index.html": "/MyCloneApp-idocNet/index.html",
-    "main.abd64e84.css.map": "/MyCloneApp-idocNet/static/css/main.abd64e84.css.map",
-    "main.e6b42482.js.map": "/MyCloneApp-idocNet/static/js/main.e6b42482.js.map",
+    "main.175a7d70.css.map": "/MyCloneApp-idocNet/static/css/main.175a7d70.css.map",
+    "main.fe965eb2.js.map": "/MyCloneApp-idocNet/static/js/main.fe965eb2.js.map",
     "787.d7586270.chunk.js.map": "/MyCloneApp-idocNet/static/js/787.d7586270.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.e6b42482.js"
+    "static/css/main.175a7d70.css",
+    "static/js/main.fe965eb2.js"
   ]
 }
